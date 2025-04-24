@@ -22,7 +22,7 @@
 3. Explore the notebook: `notebooks/EVision_Project.ipynb`
 
 ## 📊 Dataset
-- Electric Vehicle Population Data from [source]
+- Electric Vehicle Population Data from https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69
 
 ## 👤 Author
 **Gampala Vijay Kumar**  
